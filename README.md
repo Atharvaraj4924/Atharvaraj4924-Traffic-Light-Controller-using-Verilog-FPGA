@@ -1,0 +1,2 @@
+# Atharvaraj4924-Traffic-Light-Controller-using-Verilog-FPGA
+Traffic Light Controller implemented in Verilog HDL on the Basys 3  FPGA. This repository includes three FSM-based implementations: a Basic Traffic Light Controller, a Two-Way Traffic Signal Controller, and a Pedestrian Interrupt Controller, along with source code, testbenches, XDC files, hardware demonstrations, and project documentation.
